@@ -1,0 +1,76 @@
+body {
+  background-color: #A8DADC;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #1D3557;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #457B9D;
+}
+
+a:hover {
+  color: #1D3557;
+}
+
+.container {
+  width: 800px;
+  margin: 30px auto;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  box-shadow: 2px 2px 2px rgb(0,0,0,0.2);
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-avatar {
+  width: 140px;
+}
+
+.img-movie {
+
+  width: 150px;
+}
+
+.list-inline {
+  padding: 0px;
+}
+
+.list-inline li {
+  display: inline-block;
+  font-size: 40px;
+  padding: 0px 40px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-justify {
+  text-align: justify;
+}
